@@ -1,0 +1,26 @@
+{
+  "name": "vuecomponent",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vee-validate": "^4.5.8",
+    "vue": "^3.2.47",
+    "vuedraggable": "^4.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.1.0",
+    "lodash": "^4.17.21",
+    "mitt": "^3.0.0",
+    "node-sass": "^8.0.0",
+    "sass": "^1.62.1",
+    "sass-loader": "^13.2.2",
+    "style-loader": "^3.3.2",
+    "vite": "^4.2.0"
+  }
+}
